@@ -42,4 +42,4 @@
 
     echo 'step4: '.implode('', $step4);
 
-?></pre>
+    ?></pre>
