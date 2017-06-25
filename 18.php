@@ -30,7 +30,7 @@
 
     $step4 = array();
     for($i=0; $i<count($step3); $i++) {
-        $targetPos = strpos($alphabet, $step3[$i]) - strpos($alphabet, $keyword[($i%5)]);
+        $targetPos = strpos($alphabet, $step3[$i]) - strpos($alphabet, $keyword[($i%strlen($keyword))]);
 
         if($targetPos>=strlen($alphabet)) {
             $targetPos = $targetPos - strlen($alphabet);

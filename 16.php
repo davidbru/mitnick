@@ -63,7 +63,7 @@ step 2 - vigenère cipher
     $keyword = 'heinz';
 
     for($i=0; $i<count($step1); $i++) {
-        $targetPos = strpos($alphabet2, $step1[$i][1]) - strpos($alphabet2, $keyword[($i%5)]);
+        $targetPos = strpos($alphabet2, $step1[$i][1]) - strpos($alphabet2, $keyword[($i%strlen($keyword))]);
 
         if($targetPos>=strlen($alphabet2)) {
             $targetPos = $targetPos - strlen($alphabet2);
