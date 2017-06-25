@@ -56,15 +56,21 @@
     $step1 = explode(' ', $orig);
 
     $step2 = array();
-    foreach($step1 AS $characterKey => $characterValue) {
-        $currentTranslation = $morseTranslation[$characterKey%2];
+    $counter = 0;
+    foreach($step1 AS $characterValue) {
+        $currentTranslation = $morseTranslation[$counter%2];
         $step2[] = str_replace($currentTranslation, array('.', '-'), $characterValue);
+
+        $counter ++;
+        if($counter == 16) {
+            $counter ++;
+        }
     }
     echo 'step2: '.implode(' ', $step2).'<br />';
 
 
     $step3 = array();
-    foreach($step2 AS $characterKey => $characterValue) {
+    foreach($step2 AS $characterValue) {
         foreach($morseAlphabet AS $alphabetKey => $alphabetValue) {
             if($characterValue == $alphabetValue) {
                 $step3[] = $alphabetKey;
