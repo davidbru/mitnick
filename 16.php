@@ -5,7 +5,7 @@
   https://en.wikipedia.org/wiki/Rotary_dial#/media/File:Rotarydial.JPG
 
   step 2 - vigenère cipher
-  --> should use keyword 'heinz'
+  --> use keyword 'heinz'
   https://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher
  */
 
