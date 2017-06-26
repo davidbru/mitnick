@@ -6,7 +6,7 @@
       hex to ascii
       --> vigenère cipher
       --> use keyword 'ddi'
-      --> from character 4 onwards use the result
+      --> from character 4 onwards use the result - autokey
       https://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher
      */
 
