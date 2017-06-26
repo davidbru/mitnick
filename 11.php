@@ -5,13 +5,19 @@
       --> the letter 'j' was ommitted in the alphabet table
       https://en.wikipedia.org/wiki/Playfair_cipher
      */
-    $alphabet = array(
-        array('a','b','c','d','e'),
-        array('f','g','h','i','k'),
-        array('l','m','n','o','p'),
-        array('q','r','s','t','u'),
-        array('v','w','x','y','z')
-    );
+
+    $alphabet = 'abcdefghiklmnopqrstuvwxyz'; // without 'j'
+    $alphabetRawArray = str_split($alphabet);
+
+    $alphabet = array();
+    $rawCounter = 0;
+    for($i=0; $i<5; $i++) {
+        for($j=0; $j<5; $j++) {
+            $alphabet[$i][$j] = $alphabetRawArray[$rawCounter];
+            $rawCounter++;
+        }
+    }
+
 
     $orig = 'ow gw ty kc qb eb nm ht ud pc iy ty ik tu zo dp gl qt hd';
     $wordArray = explode(' ', $orig);

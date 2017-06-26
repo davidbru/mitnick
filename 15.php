@@ -6,13 +6,19 @@
       --> reverse the final output
       https://en.wikipedia.org/wiki/Playfair_cipher
      */
-    $alphabet = array(
-        array('a','b','c','d','e'),
-        array('f','g','h','i','k'),
-        array('l','m','n','o','p'),
-        array('q','r','s','t','u'),
-        array('v','w','x','y','z')
-    );
+
+    $alphabet = 'abcdefghiklmnopqrstuvwxyz'; // without 'j'
+    $alphabetRawArray = str_split($alphabet);
+
+    $alphabet = array();
+    $rawCounter = 0;
+    for($i=0; $i<5; $i++) {
+        for($j=0; $j<5; $j++) {
+            $alphabet[$i][$j] = $alphabetRawArray[$rawCounter];
+            $rawCounter++;
+        }
+    }
+
 
     $orig = 'ud mn cf ub mw re lb is ba of gx ty qc qh il ea ym nx bz ub he cf th is';
     $wordArray = explode(' ', $orig);
