@@ -3,7 +3,7 @@
       morse code
       https://en.wikipedia.org/wiki/Morse_code
 
-      decipher it twice (once where '.' = '0' and '-' = '1' and once the other way around
+      decipher it twice (once where '.' = '0' and '-' = '1' and once the other way around)
       read the final message in zigzag
 
       NOTE: there seems to be a mistake in the book
