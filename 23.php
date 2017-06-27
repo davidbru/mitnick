@@ -94,12 +94,12 @@ step 3 - vigenère cipher with autokey
 
     for($i=0; $i<count($step3); $i++) {
         if($i < strlen($keyword)) {
-            $currentKeyCharacterPosition = $keyword[($i%strlen($keyword))];
+            $currentKeyCharacter = $keyword[($i%strlen($keyword))];
         } else {
-            $currentKeyCharacterPosition = $step4[($i - strlen($keyword))];
+            $currentKeyCharacter = $step4[($i - strlen($keyword))];
         }
 
-        $targetPos = strpos($alphabet, $step3[$i]) - strpos($alphabet, $currentKeyCharacterPosition);
+        $targetPos = strpos($alphabet, $step3[$i]) - strpos($alphabet, $currentKeyCharacter);
 
         if($targetPos>=strlen($alphabet)) {
             $targetPos = $targetPos - strlen($alphabet);

@@ -15,10 +15,7 @@
     echo 'step1: '.$step1.'<br />';
 
 
-    $step2 = array();
-    for($i=0; $i<strlen($step1); $i++) {
-        $step2[] = $step1[$i];
-    }
+    $step2 = str_split($step1);
 
 
     $alphabet = 'abcdefghijklmnopqrstuvwxyz';

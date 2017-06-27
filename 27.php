@@ -18,12 +18,12 @@
 
     for($i=0; $i<count($step1); $i++) {
         if($i < strlen($keyword)) {
-            $currentKeyCharacterPosition = $keyword[($i%strlen($keyword))];
+            $currentKeyCharacter = $keyword[($i%strlen($keyword))];
         } else {
-            $currentKeyCharacterPosition = $step2[($i - strlen($keyword))];
+            $currentKeyCharacter = $step2[($i - strlen($keyword))];
         }
 
-        $targetPos = strpos($alphabet, $step1[$i]) - strpos($alphabet, $currentKeyCharacterPosition);
+        $targetPos = strpos($alphabet, $step1[$i]) - strpos($alphabet, $currentKeyCharacter);
 
         if($targetPos>=strlen($alphabet)) {
             $targetPos = $targetPos - strlen($alphabet);
