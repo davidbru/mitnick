@@ -42,4 +42,12 @@
 
     echo 'step4: '.implode('', $step4);
 
-    ?></pre>
+    ?>
+
+<hr /><hr />
+solution:
+    i identified the fbi cell phones that where calling eric by hacking into this ceppwxktmzsbhzc
+
+answer to the solution:
+    PacTel Cellular's CMB system
+</pre>

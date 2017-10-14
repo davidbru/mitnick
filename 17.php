@@ -79,4 +79,12 @@
     }
     echo 'step3: '.implode(' ', $step3);
 
-    ?></pre>
+    ?>
+
+<hr /><hr />
+solution:
+    what number is this 310 477-6565
+
+answer to the solution:
+    The Los Angeles headquarters of the FBI
+</pre>

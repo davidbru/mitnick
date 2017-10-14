@@ -75,4 +75,15 @@ step 2 - vigenère cipher
 
     echo $output;
 
-    ?></pre>
+    ?>
+
+
+<hr /><hr />
+solution:
+    i asked eric for the key to this phone company facility
+
+answer to the solution:
+    Pacific Bell central office
+    I wasn't going to tell him what I wanted it for, but my
+    plan was to get into the Calabasas central office.
+</pre>

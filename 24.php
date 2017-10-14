@@ -145,4 +145,13 @@
         return $valueOut;
     }
 
-    ?></pre>
+    ?>
+
+
+<hr /><hr />
+solution:
+    code for a wanted person in las vegas
+
+answer to the solution:
+    440
+</pre>

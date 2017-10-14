@@ -84,4 +84,13 @@ rev:   '.strrev($outputTMP);
 
 
 
-    ?></pre>
+    ?>
+
+
+<hr /><hr />
+solution:
+    i compromised this user's password through network monitoring to hack into shimomura's server
+
+answer to the solution:
+    Lile Elam
+</pre>

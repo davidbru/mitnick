@@ -17,4 +17,13 @@
         $output .= $alphabet[$targetPos];
     }
     echo $output;
-    ?></pre>
+    ?>
+
+
+<hr /><hr />
+solution:
+    the name of the mainframes i hacked at usc in the arpanet days
+
+answer to the solution:
+    DEC TOPS-20
+</pre>

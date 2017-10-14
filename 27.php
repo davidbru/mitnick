@@ -36,4 +36,13 @@
     echo 'step2: '.implode(' ', $step2);
 
 
-    ?></pre>
+    ?>
+
+
+<hr /><hr />
+solution:
+    the host name which was used for the security bug database at sun microsystems
+
+answer to the solution:
+    elmer
+</pre>

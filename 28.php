@@ -50,4 +50,12 @@
     echo 'step5: '.$step5.'
 ';
 
-    ?></pre>
+    ?>
+
+<hr /><hr />
+solution:
+    a security flaw in this program allowed me to break in to novells firewall
+
+answer to the solution:
+    sendmail
+</pre>

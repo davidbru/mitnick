@@ -42,4 +42,12 @@
 
 
 
-    ?></pre>
+    ?>
+
+<hr /><hr />
+solution:
+    this person was tricked into sending me numerous vms security holes
+
+answer to the solution:
+    Neill Clift
+</pre>

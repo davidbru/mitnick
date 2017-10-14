@@ -39,4 +39,12 @@
         }
     }
 
-    ?></pre>
+    ?>
+
+<hr /><hr />
+solution:
+    the real name of an fbi agent whose cover identity was joseph wernle
+
+answer to the solution:
+    Joseph Ways
+</pre>

@@ -42,4 +42,12 @@
 
 
 
-    ?></pre>
+    ?>
+
+<hr /><hr />
+solution:
+    the reason i was fired from the law firm in denver
+
+answer to the solution:
+    consulting
+</pre>

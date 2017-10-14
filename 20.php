@@ -138,4 +138,13 @@
         return $valueOut;
     }
 
-    ?></pre>
+    ?>
+
+
+<hr /><hr />
+solution:
+    the company teltec hacked into to get information on people
+
+answer to the solution:
+    credit reporting agency "TRW"
+</pre>

@@ -138,4 +138,13 @@ rev:   '.strrev($outputTMP);
 
 
 
-    ?></pre>
+    ?>
+
+
+<hr /><hr />
+solution:
+    someone logged into my 'marty' account on this system from the well
+
+answer to the solution:
+    Neill Clift - is not really mentioned in the chapter
+</pre>

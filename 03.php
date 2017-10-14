@@ -27,4 +27,12 @@
         echo $output;
         echo '<hr />';
     }
-    ?></pre>
+    ?>
+
+<hr /><hr />
+solution:
+    these older type of devices were used to call forward business lines to answering services
+
+answer to the solution:
+    "diverters"
+</pre>

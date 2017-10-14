@@ -5,4 +5,13 @@
      */
     $orig = 'bmFtZXRoZWNvbXBhbnl3aGVyZWJvbm5pZXdhc2VtcGxveWVkd2hlbndlc3RhcnRlZGRhdGluZw==';
     echo base64_decode($orig);
-    ?></pre>
+    ?>
+
+
+<hr /><hr />
+solution:
+    name the company where bonnie was employed when we started dating
+
+answer to the solution:
+    GTE
+</pre>

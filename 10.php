@@ -38,4 +38,16 @@
         }
     }
 
-    ?></pre>
+    ?>
+
+
+<hr /><hr />
+solution:
+    got root on unlv workstation using this simple trick
+
+answer to the solution:
+    I powered the workstation off and on while constantly
+    typing "Control-C," which broke the computer out of its
+    boot-up script and gave me administrator privileges,
+    or "root".
+</pre>

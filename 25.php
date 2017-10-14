@@ -39,4 +39,12 @@
         }
     }
 
-    ?></pre>
+    ?>
+
+<hr /><hr />
+solution:
+    i lost once working out at the gym the amount of money
+
+answer to the solution:
+    $11,000
+</pre>

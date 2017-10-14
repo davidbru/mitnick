@@ -131,4 +131,13 @@
         return $valueOut;
     }
 
-    ?></pre>
+    ?>
+
+
+<hr /><hr />
+solution:
+    my brother adam listened to this type of music
+
+answer to the solution:
+    rap and hip-hop, anything by 2 Live Crew, Dr. Dre, or N.W.A.
+</pre>

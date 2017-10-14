@@ -39,4 +39,12 @@
             echo '<hr />';
         }
     }
-    ?></pre>
+    ?>
+
+<hr /><hr />
+solution:
+    i took a course in this subject when i ran from the juvenile authorities!
+
+answer to the solution:
+    Criminal Justice
+</pre>

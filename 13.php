@@ -27,4 +27,12 @@
         echo $output;
         echo '<hr />';
     }
-    ?></pre>
+    ?>
+
+<hr /><hr />
+solution:
+    manager who i tipped off about wiretaps on teltec's lines
+
+answer to the solution:
+    Mark Kasden
+</pre>

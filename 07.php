@@ -14,4 +14,13 @@
         $output .= $alphabet2[strpos($alphabet1, $orig[$i])];
     }
     echo $output;
-    ?></pre>
+    ?>
+
+
+<hr /><hr />
+solution:
+    number of door codes i had for pacific bell central offices
+
+answer to the solution:
+    11
+</pre>

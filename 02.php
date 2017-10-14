@@ -27,4 +27,12 @@
         echo $output;
         echo '<hr />';
     }
-    ?></pre>
+    ?>
+
+<hr /><hr />
+solution:
+    this book that taught me how to create new identities when i was a pre-teen
+
+answer to the solution:
+    The Paper Trip by Barry Reid
+</pre>

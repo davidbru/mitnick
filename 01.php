@@ -27,4 +27,12 @@
         echo $output;
         echo '<hr />';
     }
-    ?></pre>
+    ?>
+
+<hr /><hr />
+solution:
+    the cost of the bus driver punch i used to punch my own transfers
+
+answer to the solution:
+    $15
+</pre>

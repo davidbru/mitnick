@@ -42,4 +42,13 @@
 
     echo 'step3: '.implode('', $step3);
 
-    ?></pre>
+    ?>
+
+
+<hr /><hr />
+solution:
+    darrell santo's voicemail password was this
+
+answer to the solution:
+    1313
+</pre>

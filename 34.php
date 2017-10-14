@@ -92,4 +92,13 @@ step3: '.$step3.'
 rev:   '.strrev(implode(' ', $step5));
 
 
-    ?></pre>
+    ?>
+
+
+<hr /><hr />
+solution:
+    this employee at intermetrics uploaded the motorola compiler for me
+
+answer to the solution:
+    Marty Stolz
+</pre>

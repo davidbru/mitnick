@@ -112,4 +112,12 @@ step 3 - vigenère cipher with autokey
     echo 'step4: '.implode(' ', $step4);
 
 
-    ?></pre>
+    ?>
+
+<hr /><hr />
+solution:
+    my favorite donuts are these kind
+
+answer to the solution:
+    fbi donuts
+</pre>

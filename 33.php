@@ -112,4 +112,13 @@
 step4: '.strrev($step4out);
 
 
-    ?></pre>
+    ?>
+
+
+<hr /><hr />
+solution:
+    i was looking for the source to this phone on shimomura's server
+
+answer to the solution:
+    OKI 900 and OKI 1150
+</pre>

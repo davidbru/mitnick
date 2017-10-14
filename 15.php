@@ -134,4 +134,13 @@
         return $valueOut;
     }
 
-    ?></pre>
+    ?>
+
+
+<hr /><hr />
+solution:
+    this hacker we showed off sas to while at hamburger hamlet
+
+answer to the solution:
+    Eric Heinz
+</pre>

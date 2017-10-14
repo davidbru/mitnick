@@ -190,4 +190,13 @@ irregularities found at the following positions:
         return $valueOut;
     }
 
-    ?></pre>
+    ?>
+
+
+<hr /><hr />
+solution:
+    the name of the employee that set me up an account on novell's 3com dialup terminal server
+
+answer to the solution:
+    Shawn Nunley
+</pre>

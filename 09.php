@@ -48,4 +48,13 @@
         }
     }
 
-    ?></pre>
+    ?>
+
+
+<hr /><hr />
+solution:
+    this version of novatel firmware allowed me to change my esn
+
+answer to the solution:
+    1.05
+</pre>

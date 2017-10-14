@@ -139,4 +139,13 @@
         return $valueOut;
     }
 
-    ?></pre>
+    ?>
+
+
+<hr /><hr />
+solution:
+    this device i connected with my scanner to alert me when fbi was near my location
+
+answer to the solution:
+    DDI - "digital-data interpreter"
+</pre>

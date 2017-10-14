@@ -33,4 +33,12 @@
             echo '<hr />';
         }
     }
-    ?></pre>
+    ?>
+
+<hr /><hr />
+solution:
+    i said i wasn't this famous magician while being a smart ass to prison officials
+
+answer to the solution:
+    David Copperfield
+</pre>
