@@ -9,6 +9,8 @@ Possible clues can be found here:
 * https://pcsxcetrasupport3.wordpress.com/2016/11/14/ghost-in-the-wires-paperback-ciphers/
 * http://fabiensanglard.net/Ghost_in_the_Wires_Paperback/index.php
 * http://fabiensanglard.net/Ghost_in_the_Wires/index.php
+* https://books.google.com/books?id=OytP8yCfjeoC&printsec=frontcover&hl=de#v=onepage&q&f=false
+* https://books.google.com/books?id=OytP8yCfjeoC&printsec=frontcover&hl=de#v=onepage&q&f=false
 
 - - -
 
